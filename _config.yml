@@ -46,8 +46,8 @@ social:
     url: http://twitter.com/rithesh_kumar
   - title: facebook
     url: https://www.facebook.com/ritheshkumar.r
-#  - title: stack-overflow
-#    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: linkedin
+    url: https://www.linkedin.com/in/ritheshkumar
 #  - title: bitbucket
 #    url: http://bitbucket.org/jekyll
   - title: github
