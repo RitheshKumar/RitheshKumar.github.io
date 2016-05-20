@@ -7,5 +7,5 @@ alt: image-alt
 project-date: Spring 2015
 client: Start Bootstrap
 category: Max/MSP, JavaScript
-description: An app to make Euclidean Rhythms based on Bjorklund's Algorithm. Written on Max/MSP using Javascript. <a href= "https://youtu.be/iXsmv5p8Hko">Click here</a> for video demo. 
+description: An app to make Euclidean Rhythms based on Bjorklund's Algorithm. Written on Max/MSP using Javascript. <a href= "https://youtu.be/iXsmv5p8Hko">Click here</a> for video demo. Based on <a href="http://cgm.cs.mcgill.ca/~godfried/publications/banff.pdf">this</a> paper.
 ---
