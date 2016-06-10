@@ -7,7 +7,7 @@ alt: image-alt
 project-date: Spring 2016
 client: Bootstrap
 category: Realtime DSP
-description:  VoCopter is a voice controlled video game, written using the <a href="https://www.juce.com/">JUCE</a> framework. It converts a raw MIDI file into obstacles. Player has to maneuver the copter through the obstacles by singing the right pitch.
+description:  VoCopter is a voice controlled video game, written using the <a href="https://www.juce.com/">JUCE</a> framework. It converts a raw MIDI file into obstacles. Player has to maneuver the copter through the obstacles by singing the right pitch. Click <a href="https://github.com/RitheshKumar/VoCopter-Project">here</a> for Github link.
 
 ---
 
